@@ -9,7 +9,7 @@ The following write-up is intended as an introduction into using phantom types i
 
 Taking a look at the above definition from the Haskell wiki, it states that phantom types are parametrised types where not all parameters appear on the right-hand side. Let's try to see if we can implement a similar example as in said wiki.
 
-#### Updated to ReasonML 3.1 (09.03.2018)
+#### Updated to Rescript 8.4.11 (01.29.2021)
 
 ### Example
 
